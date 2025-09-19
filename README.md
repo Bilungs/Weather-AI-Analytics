@@ -13,7 +13,7 @@ Proyek ini menganalisis prakiraan cuaca dari **BMKG API** (atau data dummy jika 
 - Kesimpulan umum cuaca untuk 3 hari ke depan dengan bahasa santai + emoji.
 
 ## 🤖 AI Support
-Proyek ini menggunakan Large Language Model (IBM Granite / LM Studio) untuk:
+Proyek ini menggunakan Large Language Model (IBM Granite) untuk:
 - Membuat ringkasan prakiraan cuaca agar mudah dibaca.
 - Mengklasifikasikan kategori cuaca.
 - Menambahkan insight dan saran singkat.
