@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "cuaca": [
+                {
+                    "local_datetime": "2025-09-21 00:00:00",
+                    "t": "24",
+                    "hu": "85",
+                    "ws": 10,
+                    "wd": "Timur",
+                    "weather_desc": "Berawan",
+                    "tcc": 70
+                },
+                {
+                    "local_datetime": "2025-09-21 06:00:00",
+                    "t": "26",
+                    "hu": "80",
+                    "ws": 14,
+                    "wd": "Tenggara",
+                    "weather_desc": "Cerah",
+                    "tcc": 20
+                },
+                {
+                    "local_datetime": "2025-09-21 12:00:00",
+                    "t": "30",
+                    "hu": "65",
+                    "ws": 22,
+                    "wd": "Barat Daya",
+                    "weather_desc": "Hujan",
+                    "tcc": 100
+                },
+                {
+                    "local_datetime": "2025-09-21 18:00:00",
+                    "t": "27",
+                    "hu": "75",
+                    "ws": 15,
+                    "wd": "Barat Laut",
+                    "weather_desc": "Berawan",
+                    "tcc": 60
+                },
+                {
+                    "local_datetime": "2025-09-22 00:00:00",
+                    "t": "24",
+                    "hu": "85",
+                    "ws": 10,
+                    "wd": "Timur",
+                    "weather_desc": "Berawan",
+                    "tcc": 70
+                },
+                {
+                    "local_datetime": "2025-09-22 06:00:00",
+                    "t": "26",
+                    "hu": "80",
+                    "ws": 14,
+                    "wd": "Tenggara",
+                    "weather_desc": "Cerah",
+                    "tcc": 20
+                },
+                {
+                    "local_datetime": "2025-09-22 12:00:00",
+                    "t": "30",
+                    "hu": "65",
+                    "ws": 22,
+                    "wd": "Barat Daya",
+                    "weather_desc": "Hujan",
+                    "tcc": 100
+                },
+                {
+                    "local_datetime": "2025-09-22 18:00:00",
+                    "t": "27",
+                    "hu": "75",
+                    "ws": 15,
+                    "wd": "Barat Laut",
+                    "weather_desc": "Berawan",
+                    "tcc": 60
+                },
+                {
+                    "local_datetime": "2025-09-23 00:00:00",
+                    "t": "24",
+                    "hu": "85",
+                    "ws": 10,
+                    "wd": "Timur",
+                    "weather_desc": "Berawan",
+                    "tcc": 70
+                },
+                {
+                    "local_datetime": "2025-09-23 06:00:00",
+                    "t": "26",
+                    "hu": "80",
+                    "ws": 14,
+                    "wd": "Tenggara",
+                    "weather_desc": "Cerah",
+                    "tcc": 20
+                },
+                {
+                    "local_datetime": "2025-09-23 12:00:00",
+                    "t": "30",
+                    "hu": "65",
+                    "ws": 22,
+                    "wd": "Barat Daya",
+                    "weather_desc": "Hujan",
+                    "tcc": 100
+                },
+                {
+                    "local_datetime": "2025-09-23 18:00:00",
+                    "t": "27",
+                    "hu": "75",
+                    "ws": 15,
+                    "wd": "Barat Laut",
+                    "weather_desc": "Berawan",
+                    "tcc": 60
+                }
+            ]
+        }
+    ]
+}
