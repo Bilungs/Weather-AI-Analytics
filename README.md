@@ -4,7 +4,7 @@
 Proyek ini menganalisis prakiraan cuaca dari **BMKG API** (atau data dummy jika API tidak bisa diakses), lalu menyajikan hasilnya dalam bentuk tabel, grafik, serta ringkasan dengan bantuan **AI (IBM Granite / LM Studio)**.
 
 ## 📂 Dataset
-- Sumber utama: [BMKG API](https://api.bmkg.go.id/)
+- Sumber utama: [BMKG API](https://data.bmkg.go.id/prakiraan-cuaca/)
 - Dummy data disiapkan otomatis jika API tidak dapat diakses.
 
 ## 📊 Insight & Findings
