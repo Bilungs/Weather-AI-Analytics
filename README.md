@@ -1,7 +1,7 @@
 # 🌦️ Data Prakiraan Cuaca BMKG dengan AI
 
 ## 📌 Overview
-Proyek ini menganalisis prakiraan cuaca dari **BMKG API** (atau data dummy jika API tidak bisa diakses), lalu menyajikan hasilnya dalam bentuk tabel, grafik, serta ringkasan dengan bantuan **AI (IBM Granite / LM Studio)**.
+Proyek ini menganalisis prakiraan cuaca dari **BMKG API** (atau data dummy jika API tidak bisa diakses), lalu menyajikan hasilnya dalam bentuk tabel, grafik, serta ringkasan dengan bantuan **AI (IBM Granite)**.
 
 ## 📂 Dataset
 - Sumber utama: [BMKG API](https://data.bmkg.go.id/prakiraan-cuaca/)
@@ -22,4 +22,4 @@ Proyek ini menggunakan Large Language Model (IBM Granite) untuk:
 1. Clone repo ini
 2. Buka notebook di Google Colab atau Jupyter
 3. Jalankan semua cell
-4. Hasil akan tampil di tabel, grafik, serta bisa diekspor ke Google Sheets
+4. Hasil akan tampil di tabel, grafik.
